@@ -1,0 +1,17 @@
+Created a new repository named as A01211582gitlab ,that is, public.
+
+Then opening terminal and inititalizing the local directory to a git repository using $ git init.
+
+Add files in repositorycan be done using command $ git Add.
+
+Files can be commited using $ git commit -m.
+
+At the top of github repository"quick setup page, click a box to copy the remote repositoryURL.
+
+Further in teminal, add the url for the remote repository where the local repositorywill be pushed using
+$ git remote add origin remote repository
+$ git remote -v
+
+Further, pushing the changes in local repositoryto github using $ git push -u origin master.
+
+
