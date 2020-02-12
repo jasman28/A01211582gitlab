@@ -4,3 +4,4 @@ images and creating lists as well.They are represented as # or *
 
 It is preferred over .html and .txt because  it is very easy to make dome words bold and other words italics which is possible in
 html using tags and txt using other aspects.
+Moreover, it is crash-free.
